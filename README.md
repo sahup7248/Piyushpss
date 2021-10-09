@@ -8,4 +8,4 @@
 </div>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=sahup7248&show_icons=true&count_private=true&theme=dracula" width="500" height="auto"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahup7248&layout=compact" width="220" height="auto"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahup7248&layout=compact/" width="208" height="auto"/>
